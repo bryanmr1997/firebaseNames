@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "654088484579",
+    "project_id": "arlearn-flutterv1-f5354",
+    "storage_bucket": "arlearn-flutterv1-f5354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654088484579:android:d378e7c157a64608bd37d6",
+        "android_client_info": {
+          "package_name": "com.example.arlearn_admin_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654088484579-rsqfh30fqohacjj0orfs2lr1pdu1cu8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtgL0CAEPgXSO7pnCnU0wkhl5k-iDDpFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654088484579-rsqfh30fqohacjj0orfs2lr1pdu1cu8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654088484579-vd50i4r27lbg1jnn75pjie95pvpuvmb3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arlearnAdminDashboard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654088484579:android:0949c1ac4a96fcd4bd37d6",
+        "android_client_info": {
+          "package_name": "com.rad.listnamestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654088484579-rsqfh30fqohacjj0orfs2lr1pdu1cu8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtgL0CAEPgXSO7pnCnU0wkhl5k-iDDpFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654088484579-rsqfh30fqohacjj0orfs2lr1pdu1cu8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654088484579-vd50i4r27lbg1jnn75pjie95pvpuvmb3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arlearnAdminDashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
