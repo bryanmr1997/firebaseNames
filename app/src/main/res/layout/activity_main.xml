@@ -13,4 +13,20 @@
 
         />
 
+    <fragment
+
+        android:name="com.rad.listnamestorage.CustomARFragmet"
+        android:id="@+id/ux_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+
+        />
+
+
+
+
+
+
+
 </FrameLayout>
